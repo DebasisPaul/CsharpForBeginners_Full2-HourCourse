@@ -1,5 +1,5 @@
 # DebasisPaul/CSharp_With_DebasisPaul
-Show notes, slides, and samples from the CSharp with debasispaul. https://sites.google.com/view/dotnetcsharp/home?authuser=3
+Show notes, slides, and samples from the CSharp with debasispaul. https://github.com/DebasisPaul/CsharpWithDebasisPaul
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/csharpfritz/csharp_with_csharpfritz/main)
 
