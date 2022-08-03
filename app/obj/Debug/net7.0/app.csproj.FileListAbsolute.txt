@@ -1,0 +1,15 @@
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\app\bin\Debug\net7.0\app.exe
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\app\bin\Debug\net7.0\app.deps.json
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\app\bin\Debug\net7.0\app.runtimeconfig.json
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\app\bin\Debug\net7.0\app.dll
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\app\bin\Debug\net7.0\app.pdb
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\app\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\app\obj\Debug\net7.0\app.dll
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\app\obj\Debug\net7.0\refint\app.dll
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\app\obj\Debug\net7.0\app.pdb
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\app\obj\Debug\net7.0\ref\app.dll
