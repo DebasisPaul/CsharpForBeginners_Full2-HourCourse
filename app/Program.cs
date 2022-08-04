@@ -173,3 +173,87 @@ Console.WriteLine($"The range of the short type is {min4} to {max4}");
 double radius = 2.50;
 double area = Math.PI * radius * radius;
 Console.WriteLine(area); */
+
+// ========================================================================
+
+// C#: Branches (if)
+
+/* using System;
+namespace ConsoleApp6
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = 5;
+            int b = 100;
+            if (a + b > 10)
+                Console.WriteLine("The answer is greater than 10.");
+        }
+    }
+} */
+
+/* using System;
+namespace ConsoleApp6
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = 5;
+            int b = 100;
+
+            bool something = a + b > 10;
+
+            if (something)
+                Console.WriteLine("The answer is greater than 10.");
+        }
+    }
+}  */
+
+/* using System;
+namespace ConsoleApp6
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = 5;
+            int b = 3;
+            if (a + b > 10)
+            {
+                Console.WriteLine("The answer is greater than 10");
+            }
+            else
+            {
+                Console.WriteLine("The answer is not greater than 10"); 
+            }
+
+        }
+    }
+} */
+
+using System;
+namespace ConsoleApp6
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = 5;
+            int b = 3;
+            int c = 4;
+            // if ((a + b + c > 10) && (a == b))
+            if((a + b + c > 10) || (a == b))
+            {
+                Console.WriteLine("The answer is greater than 10");
+                Console.WriteLine("And the first number is equal to the second");
+            }
+            else
+            {
+                Console.WriteLine("The answer is not greater than 10");
+                Console.WriteLine("Or the first number is not equal to the second number");
+            }
+        }
+    }
+}
