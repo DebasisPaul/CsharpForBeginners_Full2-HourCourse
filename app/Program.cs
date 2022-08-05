@@ -262,7 +262,7 @@ namespace ConsoleApp6
 
 // C#: "Hello World" Explained
 
-using System;
+/* using System;
 
 // using statements & c# are just importing other libraries. you may want to be using. Console uses the system library. So its in blue font.
 
@@ -281,4 +281,128 @@ namespace ConsoleApp6
             // Console is a Class & namespace is the envelop with the package Comes with the other staff.
         }
      }
- }
+ } */
+
+ // ===========================================================================================
+
+ // C#: What are Loops?
+
+/*  using System;
+ namespace ConsoleApp6
+ {
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // int counter = 0;
+
+            short counter = 0;
+            // while (counter < 10)
+            while (true)
+            {
+                Console.WriteLine($"Hello World! The counter is {counter} ");
+                counter++;
+            }
+        }
+    }
+ } */
+
+/*  using System;
+ namespace ConsoleApp6
+ {
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int counter = 0;
+            // int counter = 10;
+            do
+            {
+                Console.WriteLine($"Hello World! The counter is {counter}");
+                counter++;
+            } while (counter < 10);
+        }
+    }
+ } */
+
+/*  using System;
+ namespace ConsoleApp6
+ {
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            for (int index = 0; index < 10; index++)
+            {
+                Console.WriteLine($"Hello World! The index is {index}");
+            }
+
+        }
+    }
+ } */
+
+ // =====================================================================================
+
+ // C#: Combining Branches and Loops
+
+ /* using System;
+
+ namespace ConsoleApp6
+ {
+    static void Main(string[] args)
+    {
+        int sum = 0;
+        for (int number = 1; number < 21; number++)
+        {
+        if (number % 3 == 0)
+        {
+            sum = sum + number;
+        }
+        }
+        Console.WriteLine($"The sum is {sum}");
+    }
+ } */
+
+ // =====================================================================================
+
+ // C#: Arrays, List, and Collections
+
+ /* using System;
+ using System.Collections.Generic;
+
+ namespace ConsoleApp6
+ {
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var names = new List<string> {"<name>", "Ana", "Felipe"};
+            foreach (var name in names)
+            {
+                Console.WriteLine($"Hello {name.ToUpper()}");
+            }
+
+            for (int i = 0; i < names.Count; i++)
+            {
+                Console.WriteLine($"Hello {names[i].ToUpper()}!");
+            }
+        }
+    }
+ } */
+
+     /*    // Console.WriteLine();
+        var names = new List<string> {"WEIRED", "Scott", "Kendra"};
+        names.Add("Maria");
+        names.Add("Bill");
+        names.Remove("Scott");
+        foreach (var name in names)
+        {
+            //Console.WriteLine($"Hello {name.ToUpper()}!");
+            Console.WriteLine(name);
+        }
+
+        Console.WriteLine(names[0]);
+   */
+
+
+   
