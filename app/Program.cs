@@ -233,7 +233,7 @@ namespace ConsoleApp6
     }
 } */
 
-using System;
+/* using System;
 namespace ConsoleApp6
 {
     class Program
@@ -256,4 +256,29 @@ namespace ConsoleApp6
             }
         }
     }
-}
+} */
+
+// ===============================================================================================
+
+// C#: "Hello World" Explained
+
+using System;
+
+// using statements & c# are just importing other libraries. you may want to be using. Console uses the system library. So its in blue font.
+
+namespace ConsoleApp6
+
+// namespaces are basically just used to group in orgaize code. so if you have multiple different classes & all are very related  then group them in a smae namespace. 
+
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //System.Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World");
+
+            // Console is a Class & namespace is the envelop with the package Comes with the other staff.
+        }
+     }
+ }
