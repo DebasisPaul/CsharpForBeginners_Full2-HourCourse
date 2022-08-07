@@ -1,0 +1,15 @@
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\MySuperBank\MysuperBank\MysuperBank\bin\Debug\net7.0\MysuperBank.exe
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\MySuperBank\MysuperBank\MysuperBank\bin\Debug\net7.0\MysuperBank.deps.json
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\MySuperBank\MysuperBank\MysuperBank\bin\Debug\net7.0\MysuperBank.runtimeconfig.json
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\MySuperBank\MysuperBank\MysuperBank\bin\Debug\net7.0\MysuperBank.dll
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\MySuperBank\MysuperBank\MysuperBank\bin\Debug\net7.0\MysuperBank.pdb
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\MySuperBank\MysuperBank\MysuperBank\obj\Debug\net7.0\MysuperBank.csproj.AssemblyReference.cache
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\MySuperBank\MysuperBank\MysuperBank\obj\Debug\net7.0\MysuperBank.GeneratedMSBuildEditorConfig.editorconfig
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\MySuperBank\MysuperBank\MysuperBank\obj\Debug\net7.0\MysuperBank.AssemblyInfoInputs.cache
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\MySuperBank\MysuperBank\MysuperBank\obj\Debug\net7.0\MysuperBank.AssemblyInfo.cs
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\MySuperBank\MysuperBank\MysuperBank\obj\Debug\net7.0\MysuperBank.csproj.CoreCompileInputs.cache
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\MySuperBank\MysuperBank\MysuperBank\obj\Debug\net7.0\MysuperBank.dll
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\MySuperBank\MysuperBank\MysuperBank\obj\Debug\net7.0\refint\MysuperBank.dll
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\MySuperBank\MysuperBank\MysuperBank\obj\Debug\net7.0\MysuperBank.pdb
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\MySuperBank\MysuperBank\MysuperBank\obj\Debug\net7.0\MysuperBank.genruntimeconfig.cache
+F:\DeeDeeWalshProjects\CSAHRP\CsharpForBeginners_Full2-HourCourse\MySuperBank\MysuperBank\MysuperBank\obj\Debug\net7.0\ref\MysuperBank.dll

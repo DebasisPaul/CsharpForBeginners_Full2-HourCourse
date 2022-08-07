@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "F:\\DeeDeeWalshProjects\\CSAHRP\\CsharpForBeginners_Full2-HourCourse\\MySuperBank\\MysuperBank\\MysuperBank\\MysuperBank.csproj": {}
+    "F:\\DeeDeeWalshProjects\\CSAHRP\\CsharpForBeginners_Full2-HourCourse\\MySuperBank\\MysuperBank\\MysuperBank\\MySuperBank.csproj": {}
   },
   "projects": {
-    "F:\\DeeDeeWalshProjects\\CSAHRP\\CsharpForBeginners_Full2-HourCourse\\MySuperBank\\MysuperBank\\MysuperBank\\MysuperBank.csproj": {
+    "F:\\DeeDeeWalshProjects\\CSAHRP\\CsharpForBeginners_Full2-HourCourse\\MySuperBank\\MysuperBank\\MysuperBank\\MySuperBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DeeDeeWalshProjects\\CSAHRP\\CsharpForBeginners_Full2-HourCourse\\MySuperBank\\MysuperBank\\MysuperBank\\MysuperBank.csproj",
-        "projectName": "MysuperBank",
-        "projectPath": "F:\\DeeDeeWalshProjects\\CSAHRP\\CsharpForBeginners_Full2-HourCourse\\MySuperBank\\MysuperBank\\MysuperBank\\MysuperBank.csproj",
+        "projectUniqueName": "F:\\DeeDeeWalshProjects\\CSAHRP\\CsharpForBeginners_Full2-HourCourse\\MySuperBank\\MysuperBank\\MysuperBank\\MySuperBank.csproj",
+        "projectName": "MySuperBank",
+        "projectPath": "F:\\DeeDeeWalshProjects\\CSAHRP\\CsharpForBeginners_Full2-HourCourse\\MySuperBank\\MysuperBank\\MysuperBank\\MySuperBank.csproj",
         "packagesPath": "C:\\Users\\debas\\.nuget\\packages\\",
         "outputPath": "F:\\DeeDeeWalshProjects\\CSAHRP\\CsharpForBeginners_Full2-HourCourse\\MySuperBank\\MysuperBank\\MysuperBank\\obj\\",
         "projectStyle": "PackageReference",
